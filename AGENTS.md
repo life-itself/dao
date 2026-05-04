@@ -41,6 +41,7 @@ The hierarchy is `initiative → project`. Parent relationships are expressed in
 - `maintenance` — live and running but no active development work
 - `paused` — temporarily stopped with intention to return
 - `idea` — being considered, not yet started
+- `done` — finished/completed
 - `archived` — retired or deprecated, no longer pursued
 
 Do not use `complete`, `proposed`, or `deprecated`.

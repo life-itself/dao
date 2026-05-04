@@ -1114,7 +1114,7 @@ const PORTFOLIO_DATA = [
     "file": "projects/2026-portfolio-map.md",
     "title": "Portfolio Map",
     "description": "Interactive visualizations of Life Itself initiatives, projects and ideas — and the data model behind them.",
-    "status": "active",
+    "status": "done",
     "category": null,
     "created": "Tue Apr 07 2026 02:00:00 GMT+0200 (Central European Summer Time)",
     "code": "P2606",

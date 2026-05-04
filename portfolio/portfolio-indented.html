@@ -149,9 +149,9 @@
 <script src="index.js"></script>
 <script>
 const TYPE_COLOR     = { initiative: "#4A90D9", project: "#50B86C", idea: "#F2D96B" };
-const STATUS_OPACITY = { active: 1.0, maintenance: 0.7, paused: 0.25, idea: 0.55, archived: 0.15 };
-const STATUS_LABEL   = { active: "Active", maintenance: "⚙️ Maintenance", paused: "⏸️ Paused", idea: "Idea", archived: "🗄️ Archived" };
-const STATUSES = ["active", "maintenance", "paused", "idea", "archived"];
+const STATUS_OPACITY = { active: 1.0, maintenance: 0.7, paused: 0.25, idea: 0.55, archived: 0.15, done: 0.15 };
+const STATUS_LABEL   = { active: "Active", maintenance: "⚙️ Maintenance", paused: "⏸️ Paused", idea: "Idea", archived: "🗄️ Archived", done: "✅ Done" };
+const STATUSES = ["active", "maintenance", "paused", "idea", "archived", "done"];
 
 const isGrouping = d => d.category === "grouping";
 function nodeColor(d)   { return (d.status === "idea" || d.type === "idea") ? TYPE_COLOR.idea : (TYPE_COLOR[d.type] || "#AAAAAA"); }
