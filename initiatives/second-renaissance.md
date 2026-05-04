@@ -9,3 +9,4 @@ parent: [[life-itself]]
 
 ## Projects
 
+- [[projects/2026-shadow-manifesto|Shadow Manifesto]]

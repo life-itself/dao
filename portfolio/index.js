@@ -712,7 +712,7 @@ const PORTFOLIO_DATA = [
     "category": null,
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
     "code": null,
-    "parent": "comms",
+    "parent": "second-renaissance",
     "tags": [
       "lifeitself",
       "writing",
@@ -1189,6 +1189,25 @@ const PORTFOLIO_DATA = [
     "tracker": null,
     "owner": "sylvie-barbier",
     "sitePath": "/projects/2026-second-renaissance-mythos"
+  },
+  {
+    "slug": "2026-shadow-manifesto",
+    "type": "project",
+    "file": "projects/2026-shadow-manifesto.md",
+    "title": "Shadow Manifesto",
+    "description": "Develop the Shadow Manifesto as part of the Second Renaissance narrative work.",
+    "status": "active",
+    "category": null,
+    "created": "Mon May 04 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2615",
+    "parent": "second-renaissance",
+    "tags": null,
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": null,
+    "sitePath": "/projects/2026-shadow-manifesto"
   },
   {
     "slug": "2026-strategy",

@@ -4,7 +4,7 @@ description: Blog and podcast exploring civilisational renewal and the emerging 
 created: 2026-03-29
 status: active
 owner: jarlath-rice
-parent: [[comms]]
+parent: [[second-renaissance]]
 url: https://overthemountains.substack.com
 tags:
   - lifeitself
