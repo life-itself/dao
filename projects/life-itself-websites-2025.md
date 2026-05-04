@@ -2,6 +2,7 @@
 title: Life Itself Websites 2025
 description: Major refactor of Life Itself websites to reflect the new strategy and direction.
 created: 2026-01-29
+code: P2601
 github: https://github.com/life-itself/next.lifeitself.org
 url: https://lifeitself.org/
 tracker: https://github.com/life-itself/next.lifeitself.org/issues

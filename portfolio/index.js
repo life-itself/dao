@@ -8,6 +8,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Fri Apr 10 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -29,6 +30,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "gatherings",
     "tags": [
       "second-renaissance",
@@ -51,6 +53,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "lifeitself",
@@ -73,6 +76,7 @@ const PORTFOLIO_DATA = [
     "status": "idea",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-research",
     "tags": null,
     "url": null,
@@ -91,6 +95,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "developmental-spaces-dds",
     "tags": null,
     "url": null,
@@ -109,6 +114,7 @@ const PORTFOLIO_DATA = [
     "status": "idea",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-research",
     "tags": null,
     "url": null,
@@ -127,6 +133,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -149,6 +156,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -170,6 +178,7 @@ const PORTFOLIO_DATA = [
     "status": "idea",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-courses",
     "tags": [
       "lifeitself",
@@ -192,6 +201,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "conscious-coliving",
     "tags": [
       "developmental-spaces",
@@ -214,6 +224,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "developmental-spaces-dds",
     "tags": [
       "developmental-spaces",
@@ -235,6 +246,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": null,
     "url": null,
@@ -253,6 +265,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "developmental-spaces-dds",
     "tags": [
       "developmental-spaces",
@@ -274,6 +287,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "developmental-spaces-dds",
     "tags": [
       "developmental-spaces",
@@ -295,6 +309,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-hubs",
     "tags": [
       "lifeitself",
@@ -317,6 +332,7 @@ const PORTFOLIO_DATA = [
     "status": "idea",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-hubs",
     "tags": [
       "lifeitself",
@@ -339,6 +355,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "community",
     "tags": [
       "lifeitself",
@@ -361,6 +378,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "lifeitself",
@@ -382,6 +400,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -403,6 +422,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -425,6 +445,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -446,6 +467,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "comms",
     "tags": [
       "lifeitself",
@@ -469,6 +491,7 @@ const PORTFOLIO_DATA = [
     "status": "maintenance",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "comms",
     "tags": [
       "lifeitself",
@@ -490,6 +513,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-courses",
     "tags": [
       "lifeitself",
@@ -512,6 +536,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "lifeitself",
@@ -533,6 +558,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-management",
     "tags": [
       "lifeitself",
@@ -554,6 +580,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "comms",
     "tags": [
       "lifeitself",
@@ -576,6 +603,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": "grouping",
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": null,
     "tags": null,
     "url": null,
@@ -594,6 +622,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Fri Apr 24 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "community",
     "tags": [
       "lifeitself",
@@ -616,6 +645,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "community",
     "tags": [
       "lifeitself",
@@ -638,6 +668,7 @@ const PORTFOLIO_DATA = [
     "status": "idea",
     "category": null,
     "created": "Fri Apr 10 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": [
       "commerce"
@@ -658,6 +689,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-management",
     "tags": [
       "lifeitself",
@@ -679,6 +711,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Sun Mar 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "comms",
     "tags": [
       "lifeitself",
@@ -701,6 +734,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-courses",
     "tags": [
       "lifeitself",
@@ -723,6 +757,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "life-itself-hubs",
     "tags": [
       "lifeitself",
@@ -745,6 +780,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Tue Apr 21 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -767,6 +803,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -788,6 +825,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -809,6 +847,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -831,6 +870,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "second-renaissance",
     "tags": [
       "second-renaissance",
@@ -852,6 +892,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": null,
     "url": null,
@@ -870,6 +911,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Mon Jan 01 2024 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself",
     "tags": null,
     "url": "https://studio.lifeitself.org",
@@ -888,6 +930,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
     "parent": "comms",
     "tags": [
       "lifeitself",
@@ -910,6 +953,7 @@ const PORTFOLIO_DATA = [
     "status": "paused",
     "category": null,
     "created": "Wed Jan 28 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "developmental-spaces-dds",
     "tags": null,
     "url": null,
@@ -928,6 +972,7 @@ const PORTFOLIO_DATA = [
     "status": "superseded",
     "category": null,
     "created": "Thu Nov 10 2022 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-strategy",
     "tags": null,
     "url": null,
@@ -946,6 +991,7 @@ const PORTFOLIO_DATA = [
     "status": "archived",
     "category": null,
     "created": "Tue Jan 09 2024 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": null,
     "parent": "life-itself-strategy",
     "tags": null,
     "url": null,
@@ -964,6 +1010,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Apr 13 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2611",
     "parent": "2r-art-collective",
     "tags": [
       "second-renaissance",
@@ -986,6 +1033,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2607",
     "parent": "life-itself-strategy",
     "tags": [
       "lifeitself",
@@ -1009,6 +1057,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Apr 13 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2613",
     "parent": "ops",
     "tags": [
       "ops",
@@ -1030,6 +1079,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2602",
     "parent": "comms",
     "tags": null,
     "url": null,
@@ -1048,6 +1098,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2603",
     "parent": "over-the-mountains",
     "tags": null,
     "url": null,
@@ -1066,6 +1117,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Tue Apr 07 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2606",
     "parent": "life-itself-strategy",
     "tags": [
       "visualization",
@@ -1087,6 +1139,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2604",
     "parent": "praxis-ecology",
     "tags": null,
     "url": null,
@@ -1105,6 +1158,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Mar 30 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2605",
     "parent": "second-renaissance-course",
     "tags": null,
     "url": null,
@@ -1123,6 +1177,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2609",
     "parent": "second-renaissance-magazine",
     "tags": [
       "second-renaissance",
@@ -1144,6 +1199,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Mon Apr 13 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2612",
     "parent": "life-itself-strategy",
     "tags": [
       "lifeitself",
@@ -1165,6 +1221,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Tue Apr 21 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2614",
     "parent": "2r-art-collective",
     "tags": [
       "second-renaissance",
@@ -1187,6 +1244,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2610",
     "parent": "gatherings",
     "tags": [
       "lifeitself",
@@ -1209,6 +1267,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": "P2608",
     "parent": "developmental-spaces-dds",
     "tags": [
       "developmental-spaces",
@@ -1230,6 +1289,7 @@ const PORTFOLIO_DATA = [
     "status": "active",
     "category": null,
     "created": "Thu Jan 29 2026 01:00:00 GMT+0100 (Central European Standard Time)",
+    "code": "P2601",
     "parent": "life-itself-websites",
     "tags": null,
     "url": "https://lifeitself.org/",

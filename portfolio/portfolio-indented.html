@@ -76,7 +76,16 @@
     font-size: 10px; color: #999; user-select: none;
   }
   .dot-circle { flex-shrink: 0; width: 10px; height: 10px; border-radius: 50%; }
-  .name { font-size: 13px; font-weight: 500; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .name {
+    font-size: 13px; font-weight: 500; flex: 1 1 auto; min-width: 0;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  }
+  .code-badge {
+    flex-shrink: 0; font-size: 10px; font-weight: 600; letter-spacing: 0.3px;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    color: #6f7b88; background: #eef2f6; border: 1px solid #d8e0e8;
+    border-radius: 999px; padding: 1px 7px; white-space: nowrap;
+  }
   .initiative-tag {
     flex-shrink: 0; font-size: 11px; color: #bbb;
     white-space: nowrap; max-width: 180px; overflow: hidden; text-overflow: ellipsis;
@@ -294,6 +303,13 @@ function drawProjects() {
     name.style.opacity = nodeOpacity(e);
     row.appendChild(name);
 
+    if (e.type === "project" && e.code) {
+      const code = document.createElement("div");
+      code.className = "code-badge";
+      code.textContent = e.code;
+      row.appendChild(code);
+    }
+
     if (e.owner) {
       const ownerEl = document.createElement("div");
       ownerEl.className = "owner-label";
@@ -416,6 +432,13 @@ function drawTree() {
     name.textContent = e.title || e.slug;
     name.style.opacity = nodeOpacity(e);
     row.appendChild(name);
+
+    if (e.type === "project" && e.code) {
+      const code = document.createElement("div");
+      code.className = "code-badge";
+      code.textContent = e.code;
+      row.appendChild(code);
+    }
 
     if (e.owner) {
       const ownerEl = document.createElement("div");

@@ -28,6 +28,8 @@ See **[PLAN.md](PLAN.md)** for the full plan, open questions, and task list.
 
 **Still missing:** `owner` field on active initiatives — you can see *what* is active but not *who* is carrying it.
 
+**Project codes:** active projects can include a sequential `code` like `P2601` in frontmatter. Use `PYYNN` with the year prefix and a two-digit increment, and keep the values nonconflicting.
+
 ---
 
 ## Building the data index

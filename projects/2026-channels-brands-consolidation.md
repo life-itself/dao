@@ -2,6 +2,7 @@
 title: Channels & Brands Consolidation
 description: Consolidate Life Itself's fragmented channels and brands into one coherent presence — or at most two clearly distinct brands.
 created: 2026-04-08
+code: P2607
 status: active
 owner: rufus-pollock
 parent: [[life-itself-strategy]]
@@ -24,4 +25,3 @@ Until this consolidation happens, energy is being diffused across too many chann
 Full analysis thread to be written up.
 
 ## Tasks
-
