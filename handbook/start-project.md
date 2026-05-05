@@ -24,7 +24,10 @@ Copy the template below, fill it in, and open a GitHub issue in this repo with t
 ## [Project name] — Proposal
 
 **Owner**: [name]  
-**Time envelope**: [rough estimate — e.g. 2 weeks, 1 month, ongoing]  
+**Time budget**: [rough estimate — e.g. 2 weeks, 1 month, ongoing. this total time not calendar time]
+**Start**: [start date]
+**Launch**: [launch date, when does it "go live"]
+**End**: [if different from launch e.g. if sharing afterwards]
 **Supporting docs**: [link to any Drive folder, spec, or related material — leave blank if none]
 
 ### Press release
