@@ -13,3 +13,5 @@ tags:
 ---
 
 ## Tasks
+
+- [Issue #10 — Art of Ritual Residency planning](https://github.com/life-itself/dao/issues/10)
