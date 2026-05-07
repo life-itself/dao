@@ -6,4 +6,4 @@ status: idea
 parent: [[second-renaissance]]
 ---
 
-## Tasks
+## Projects

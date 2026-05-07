@@ -10,4 +10,3 @@ parent: [[life-itself]]
 ## Projects
 
 - [[projects/2026-shadow-manifesto|Shadow Manifesto]]
-- [[projects/2026-2r-movement-building-call|2R Movement Building Call]]
