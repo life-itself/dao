@@ -45,25 +45,6 @@ const PORTFOLIO_DATA = [
     "sitePath": "/initiatives/2r-festival"
   },
   {
-    "slug": "2r-movement-building-call",
-    "type": "initiative",
-    "file": "initiatives/2r-movement-building-call.md",
-    "title": "2R Movement Building Call",
-    "description": "A call focused on building the Second Renaissance movement.",
-    "status": "idea",
-    "category": null,
-    "created": "Thu May 07 2026 02:00:00 GMT+0200 (Central European Summer Time)",
-    "code": null,
-    "parent": "second-renaissance",
-    "tags": null,
-    "url": null,
-    "github": null,
-    "phase": null,
-    "tracker": null,
-    "owner": "sylvie-barbier",
-    "sitePath": "/initiatives/2r-movement-building-call"
-  },
-  {
     "slug": "2rcon",
     "type": "initiative",
     "file": "initiatives/2rcon.md",
@@ -1336,5 +1317,24 @@ const PORTFOLIO_DATA = [
     "tracker": "https://github.com/life-itself/next.lifeitself.org/issues",
     "owner": "rufus-pollock",
     "sitePath": "/projects/life-itself-websites-2025"
+  },
+  {
+    "slug": "2r-movement-building-call",
+    "type": "idea",
+    "file": "ideas/2r-movement-building-call.md",
+    "title": "2R Movement Building Call",
+    "description": "A call focused on building the Second Renaissance movement.",
+    "status": "idea",
+    "category": null,
+    "created": "Thu May 07 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
+    "parent": "second-renaissance",
+    "tags": null,
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": "sylvie-barbier",
+    "sitePath": "/ideas/2r-movement-building-call"
   }
 ];
