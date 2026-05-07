@@ -1002,6 +1002,25 @@ const PORTFOLIO_DATA = [
     "sitePath": "/projects/2024-presenting-our-strategy-v3"
   },
   {
+    "slug": "2026-2r-movement-building-call",
+    "type": "project",
+    "file": "projects/2026-2r-movement-building-call.md",
+    "title": "2R Movement Building Call",
+    "description": "A call focused on building the Second Renaissance movement.",
+    "status": "idea",
+    "category": null,
+    "created": "Thu May 07 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
+    "parent": "second-renaissance",
+    "tags": null,
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": null,
+    "sitePath": "/projects/2026-2r-movement-building-call"
+  },
+  {
     "slug": "2026-art-of-ritual-workshop",
     "type": "project",
     "file": "projects/2026-art-of-ritual-workshop.md",
