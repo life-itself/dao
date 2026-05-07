@@ -60,7 +60,7 @@ const PORTFOLIO_DATA = [
     "github": null,
     "phase": null,
     "tracker": null,
-    "owner": null,
+    "owner": "sylvie-barbier",
     "sitePath": "/initiatives/2r-movement-building-call"
   },
   {
