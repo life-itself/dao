@@ -3,9 +3,12 @@ title: 2R Movement Building Call
 description: A call focused on building the Second Renaissance movement.
 created: 2026-05-07
 status: idea
+phase: shaping
 owner: sylvie-barbier
 parent: [[second-renaissance]]
 ---
+
+> **Phase:** Shaping — work in progress.
 
 ## Origin
 
@@ -33,3 +36,10 @@ A bi-weekly call (cadence to be confirmed) on a volunteer model where participan
 - Length of volunteer commitment periods
 - Nature and timing of the in-person gatherings
 - How the team, community, and facilitator roles interact
+
+## Next steps
+
+- [ ] Contact Priscilla
+- [ ] Contact Coco
+- [ ] Contact Valérie
+- [ ] Prepare a small presentation or notes (Sylvie)
