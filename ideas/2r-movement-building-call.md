@@ -25,11 +25,11 @@ Born from the momentum observed in the group during the Second Renaissance Explo
 
 ## What we're testing
 
-A volunteer model where participants commit for clearly bounded periods of time, with in-person gatherings on the horizon as the shared destination.
+A bi-weekly call (cadence to be confirmed) on a volunteer model where participants commit for clearly bounded periods of time, with in-person gatherings on the horizon as the shared destination.
 
 ## To be defined
 
-- Frequency and format of the calls
+- Format of the calls
 - Length of volunteer commitment periods
 - Nature and timing of the in-person gatherings
 - How the team, community, and facilitator roles interact
