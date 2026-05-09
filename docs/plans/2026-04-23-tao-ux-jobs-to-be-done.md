@@ -35,9 +35,14 @@ Status legend:
 
 | # | Job | User says... | Priority | Current answer | Status |
 |---|-----|-------------|----------|---------------|--------|
-| A1 | See all active initiatives and projects | "What is Life Itself working on right now?" | P0 | Portfolio map in `/portfolio/` | 🟢 |
-| A2 | Understand a specific initiative or project | "What is [X]? Who owns it? What's the status?" | P1 | Unclear whether this lives in individual files, GitHub issues, or Google Docs. | 🟡 |
+| A1 | See all active initiatives and projects | "What is Life Itself working on right now?" | P0 | Portfolio map in `/portfolio/`. Note, right now this runs off the markdown "database" of projects and initiatives in this repo. However, going forward may be better to use pre-existing [Programs and Projects DB google spreadsheet][ppsheet] as authoritative index (see note below this table) | 🟢 |
+| A2 | Understand a specific initiative or project | "What is [X]? Who owns it? What's the status?" | P1 | Portfolio metadata usually has owner and status; the project information document is whatever the portfolio map links to be that a google doc, github issue, markdown file or something else. | 🟡 |
 | B1 | Update the portfolio map | "A project status changed. How do I update it?" | P2 | See A2. Documentation is still unclear on whether project/initiative docs live in files, GitHub issues, or Google Docs. | 🟡 |
+
+[ppsheet]: https://docs.google.com/spreadsheets/d/1_PgSkvZBahV-Wpa-JLHb3C7uk9KhqNFpTUjxcKUMn4E/edit?gid=0#gid=0 
+
+> [!note]
+> The use of the markdown database was the "quick and dirty" way for Rufus to get something working for the team, and especially Armelle in late March / early April. Going forward, Armelle can take the lead on how we approach this. The Programs and Projects DB may be attractive both as easier for team members to access and edit. It is also an easier starting point for e.g. weekly planning.
 
 ---
 
