@@ -1,11 +1,18 @@
-# Tao UX: Jobs to Be Done and Information Architecture
+# Knowledge Management and Information Architecture for Team Coordination
 
 **Date**: 2026-04-23  
-**Related**: [[strategy/docs/plans/2026-04-21-team-coordination-hub-notes]]
+**Related**: [[docs/plans/2026-04-21-team-coordination-hub-notes]]  
+**Supersedes**: [[docs/plans/2026-04-21-team-coordination-hub-notes]]
 
 ## Purpose
 
-Translate the team's core information needs into a clear set of jobs-to-be-done (JTBD), then implement those as a better user experience on the tao site — starting with the landing page and key destination pages.
+This is a knowledge management and information architecture layer for team coordination.
+
+- Make the team's information legible, findable, and maintainable.
+- Support coordination, planning, and work initiation by surfacing the right context at the right time.
+- Improve the tao site as the front door for this system, starting with the landing page and key destination pages.
+
+This is not a decision about the team's working process itself, though it supports and shapes that process.
 
 The guiding principle: a visitor landing on the tao should reach what they need in **one click**, and the landing page should present no more than **3–5 primary options** before nesting further detail.
 
@@ -14,6 +21,11 @@ The guiding principle: a visitor landing on the tao should reach what they need 
 ## Jobs to Be Done
 
 JTBDs are grouped by the six major questions from the team coordination hub notes. Two categories: **A = find/navigate** (primary — address now), **B = update/edit** (secondary — log now, address later).
+
+Status legend:
+- 🟡 `Exploring` - still being worked through
+- 🟠 `Recommendation` - recommended by e.g. Armelle and Rufus
+- 🟢 `Agreed` - agreed by the team
 
 ---
 
@@ -184,3 +196,15 @@ Not in original plan but done as part of this work:
 1. ~~**Idea inbox location**~~ — resolved: `handbook/inbox.md` with Google Drive folder + GitHub issue tracking
 2. ~~**Cards as HTML or Markdown**~~ — resolved: confirmed working on live site
 3. **Portfolio map update process**: Is the portfolio auto-generated from project files, or manually maintained? Affects B1.
+
+---
+
+## Additional JTBDs
+
+*These jobs came up in the team discussion after the initial JTBD set. They are about planning capacity, scope, and making the monthly/weekly plan easier to navigate.*
+
+| # | Job | User says... | Priority | Current answer | Tao destination |
+|---|-----|-------------|----------|---------------|----------------|
+| A15 | See whether we are overcommitted | "Are Sylvie and I overcommitted for the next month?" | P1 | Not explicitly captured | Monthly and weekly plans, plus portfolio map / board |
+| A16 | Decide what to defer vs delegate | "Which items should we defer rather than delegate?" | P1 | No explicit guidance yet | Planning notes and handbook guidance |
+| A17 | Relate actions to the portfolio and projects | "Where does this action sit in the portfolio and which project does it belong to?" | P1 | Partially visible through portfolio map and board | Portfolio map, board, and project pages |
