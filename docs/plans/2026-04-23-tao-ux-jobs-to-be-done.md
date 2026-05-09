@@ -33,11 +33,11 @@ Status legend:
 
 *"How can any team member quickly get a current high-level view of Life Itself's active initiatives and projects?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A1 | See all active initiatives and projects | "What is Life Itself working on right now?" | P0 | Portfolio map in `/portfolio/` | `/portfolio/` — primary card on landing page |
-| A2 | Understand a specific initiative or project | "What is [X]? Who owns it? What's the status?" | P1 | Individual files in `/projects/` and `/initiatives/` | Direct links from portfolio map |
-| B1 | Update the portfolio map | "A project status changed. How do I update it?" | P2 | Edit files in `/projects/` or `/initiatives/` | Needs clearer edit instructions; low frequency |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A1 | See all active initiatives and projects | "What is Life Itself working on right now?" | P0 | Portfolio map in `/portfolio/` | 🟢 Agreed | `/portfolio/` — primary card on landing page |
+| A2 | Understand a specific initiative or project | "What is [X]? Who owns it? What's the status?" | P1 | Individual files in `/projects/` and `/initiatives/` | 🟡 Exploring | Direct links from portfolio map |
+| B1 | Update the portfolio map | "A project status changed. How do I update it?" | P2 | See A2. Documentation is still unclear on whether project/initiative docs live in files, GitHub issues, or Google Docs. | 🟡 Exploring | Needs clearer edit instructions; low frequency |
 
 ---
 
@@ -45,10 +45,10 @@ Status legend:
 
 *"How can any team member quickly see what area or initiative each person is focused on this week?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A3 | See who is working on what this week | "What is each person focused on this week?" | P1 | Weekly plans in `/plans/` — lightweight but exists | `/plans/` — card on landing page |
-| B2 | Log my weekly focus | "It's Monday. Where do I record what I'm working on?" | P1 | Create/edit a file in `/plans/` | Process mostly clear; template would help |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A3 | See who is working on what this week | "What is each person focused on this week?" | P1 | — | 🟡 Exploring | `/plans/` — card on landing page |
+| B2 | Log my weekly focus | "It's Monday. Where do I record what I'm working on?" | P1 | — | 🟡 Exploring | Process mostly clear; template would help |
 
 ---
 
@@ -56,11 +56,11 @@ Status legend:
 
 *"What is the minimum canonical format for starting a new initiative or project, and how are new ones proposed?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A4 | Capture a quick idea | "I have an idea or suggestion. Where do I put it?" | P0 | Not clearly answered — no designated inbox | New page `/ideas` or section in `getting-stuff-done.md`; card on landing page |
-| A5 | Start a new project or initiative | "I want to propose or kick off a project. What do I do?" | P1 | Partially in `getting-stuff-done.md` and `shapeup.md`; no single clear entry | Dedicated section or page; link from landing page |
-| B3 | Archive or close a project | "This project is done. What do I do with its files?" | P2 | Not clearly documented | Needs a short convention note |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A4 | Capture a quick idea | "I have an idea or suggestion. Where do I put it?" | P0 | `handbook/inbox.md` | 🟢 Agreed | New page `/ideas` or section in `getting-stuff-done.md`; card on landing page |
+| A5 | Start a new project or initiative | "I want to propose or kick off a project. What do I do?" | P1 | `handbook/start-project.md` | 🟠 Recommendation | Dedicated section or page; link from landing page |
+| B3 | Archive or close a project | "This project is done. What do I do with its files?" | P2 | Not clearly documented | 🟡 Exploring | Needs a short convention note |
 
 ---
 
@@ -68,12 +68,12 @@ Status legend:
 
 *"What are the minimum shared conventions for where different kinds of materials should live?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A6 | Know where to put a document | "Should this go in Drive or GitHub? Where does [type of doc] live?" | P1 | Documented in team coordination hub notes; not surfaced in tao | Short conventions page or section; link from landing page |
-| A7 | Find a specific document or resource | "Where is the comms guide / ops guide / [thing]?" | P2 | Scattered across tao; search exists in published site | Improve landing page nav; sidebar categories |
-| B4 | Log meeting notes | "We just had a meeting. Where do I put the notes?" | P2 | `/meetings/` folder | Mostly working; template would help |
-| B5 | Add an event to the calendar | "We have an event. Where does it go?" | P3 | `events.md` or calendar in `strategy/` | Unclear; needs resolution |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A6 | Know where to put a document | "Should this go in Drive or GitHub? Where does [type of doc] live?" | P1 | Documented in team coordination hub notes; not surfaced in tao | 🟠 Recommendation | Short conventions page or section; link from landing page |
+| A7 | Find a specific document or resource | "Where is the comms guide / ops guide / [thing]?" | P2 | Scattered across tao; search exists in published site | 🟡 Exploring | Improve landing page nav; sidebar categories |
+| B4 | Log meeting notes | "We just had a meeting. Where do I put the notes?" | P2 | What meeting notes should look like is still unclear. | 🟡 Exploring | Mostly working; template would help |
+| B5 | Add an event to the calendar | "We have an event. Where does it go?" | P3 | The calendar target is still unclear, likely the content calendar. | 🟡 Exploring | Unclear; needs resolution |
 
 ---
 
@@ -81,10 +81,10 @@ Status legend:
 
 *"What gardening and maintenance work is needed to keep the coordination layer accurate, and who is responsible?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A8 | Know who is responsible for what | "Who owns the portfolio map? Who maintains the knowledge base?" | P2 | Partially in team coordination hub notes; not surfaced | Short responsibilities section in ops or a coordination page |
-| B6 | Update my people profile | "My role changed. How do I update my profile?" | P3 | `/people/` folder | Low priority |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A8 | Know who is responsible for what | "Who owns the portfolio map? Who maintains the knowledge base?" | P2 | Armelle owns it. | 🟠 Recommendation | Short responsibilities section in ops or a coordination page |
+| B6 | Update my people profile | "My role changed. How do I update my profile?" | P3 | `/people/` folder | 🟠 Recommendation | Low priority |
 
 ---
 
@@ -92,10 +92,9 @@ Status legend:
 
 *"What is the minimum viable shared coordination the team actually needs?"*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A9 | Know our meeting cadence and how to join | "When do we meet? What's the agenda format?" | P2 | `meetings/` and `meetings.md` | `meetings.md` |
-| A10 | Understand the coordination model | "How do we make decisions? Who has authority over what?" | P2 | `governance.md`; partially in team coordination hub notes | `governance.md` — link from ops section |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A9 | Know our meeting cadence and how to join | "When do we meet? What's the agenda format?" | P2 | `meetings/` and `meetings.md` | 🟠 Recommendation | `meetings.md` |
 
 ---
 
@@ -103,12 +102,12 @@ Status legend:
 
 *These JTBDs came up as we mapped the user experience but don't map to one of the six hub questions. They are primarily about helping people orient to Life Itself as a whole.*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A11 | Get onboarded / understand how things work here | "I'm new. Where do I start?" | P1 | `onboarding.md` exists | `onboarding.md` — link prominently from landing page |
-| A12 | Understand Life Itself's strategy and purpose | "What are we trying to achieve and why?" | P1 | `strategy/` folder; `narrative.md`, `scqh.md` | `/strategy/` summary page |
-| A13 | Find a person / know who does what | "Who is on the team? Who owns X?" | P1 | `/people/` exists | `/people/` — in landing page nav |
-| A14 | Know our comms guidelines and channels | "What are our channels? What are the guidelines?" | P2 | `communications.md` and `communications/` folder | `communications.md` |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A11 | Get onboarded / understand how things work here | "I'm new. Where do I start?" | P1 | `onboarding.md` exists | 🟡 Exploring | `onboarding.md` — link prominently from landing page |
+| A12 | Understand Life Itself's strategy and purpose | "What are we trying to achieve and why?" | P1 | `strategy/` folder; `narrative.md`, `scqh.md` | 🟡 Exploring | `/strategy/` summary page |
+| A13 | Find a person / know who does what | "Who is on the team? Who owns X?" | P1 | `/people/` exists | 🟡 Exploring | `/people/` — in landing page nav |
+| A14 | Know our comms guidelines and channels | "What are our channels? What are the guidelines?" | P2 | `communications.md` and `communications/` folder | 🟡 Exploring | `communications.md` |
 
 ---
 
@@ -203,8 +202,8 @@ Not in original plan but done as part of this work:
 
 *These jobs came up in the team discussion after the initial JTBD set. They are about planning capacity, scope, and making the monthly/weekly plan easier to navigate.*
 
-| # | Job | User says... | Priority | Current answer | Tao destination |
-|---|-----|-------------|----------|---------------|----------------|
-| A15 | See whether we are overcommitted | "Are Sylvie and I overcommitted for the next month?" | P1 | Not explicitly captured | Monthly and weekly plans, plus portfolio map / board |
-| A16 | Decide what to defer vs delegate | "Which items should we defer rather than delegate?" | P1 | No explicit guidance yet | Planning notes and handbook guidance |
-| A17 | Relate actions to the portfolio and projects | "Where does this action sit in the portfolio and which project does it belong to?" | P1 | Partially visible through portfolio map and board | Portfolio map, board, and project pages |
+| # | Job | User says... | Priority | Current answer | Status | Tao destination |
+|---|-----|-------------|----------|---------------|--------|----------------|
+| A15 | See whether we are overcommitted | "Are Sylvie and I overcommitted for the next month?" | P1 | Not explicitly captured | 🟡 Exploring | Monthly and weekly plans, plus portfolio map / board |
+| A16 | Decide what to defer vs delegate | "Which items should we defer rather than delegate?" | P1 | No explicit guidance yet | 🟡 Exploring | Planning notes and handbook guidance |
+| A17 | Relate actions to the portfolio and projects | "Where does this action sit in the portfolio and which project does it belong to?" | P1 | Partially visible through portfolio map and board | 🟡 Exploring | Portfolio map, board, and project pages |
