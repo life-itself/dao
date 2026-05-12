@@ -1371,7 +1371,7 @@ const PORTFOLIO_DATA = [
     "code": null,
     "parent": "second-renaissance-courses",
     "tags": null,
-    "url": null,
+    "url": "https://secondrenaissance.net/course/sensemaking",
     "github": null,
     "phase": null,
     "tracker": null,

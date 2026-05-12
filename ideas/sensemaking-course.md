@@ -4,6 +4,7 @@ description: An idea for a course on sensemaking, under the Second Renaissance u
 created: 2026-05-12
 status: idea
 parent: [[second-renaissance-courses]]
+url: https://secondrenaissance.net/course/sensemaking
 ---
 
 > **Phase:** Idea — not yet shaped.
