@@ -55,6 +55,9 @@ Status legend:
 | A3 | See who is working on what this week | "What is each person focused on this week?" | P1 | — | 🟡 |
 | B2 | Log my weekly focus | "It's Monday. Where do I record what I'm working on?" | P1 | — | 🟡 |
 
+> [!note]
+> A3 has two valid reads: (a) what project is this person working on, and (b) what initiative/domain are they in (the roll-up). E.g. "Valerie is working on Practicology v1 prep" vs "Valerie is working on Courses." The underlying data structure needed is **People × Project × Time (week)**.
+
 ---
 
 ### 3. Initiation Format
@@ -212,3 +215,6 @@ Not in original plan but done as part of this work:
 | A15 | See whether we are overcommitted | "Are Sylvie and I overcommitted for the next month?" | P1 | Not explicitly captured | 🟡 |
 | A16 | Decide what to defer vs delegate | "Which items should we defer rather than delegate?" | P1 | No explicit guidance yet | 🟡 |
 | A17 | Relate actions to the portfolio and projects | "Where does this action sit in the portfolio and which project does it belong to?" | P1 | Partially visible through portfolio map and board | 🟡 |
+| A18 | See a project's current status | "What's the current state of [X]? What happened recently?" | P1 | Frontmatter has `status` field but no dated narrative; no standard place for a status note | 🟡 |
+| A19 | See the next milestone or deliverable for a project | "What's the next thing we're shipping on [X]?" | P1 | Not captured anywhere | 🟡 |
+| B7 | Record that a project is on pause (or add a missing project) | "The new build is on pause for 6–12 months. How do I record that?" | P1 | Add/update markdown file in `projects/`; but naming conventions and canonical names are unclear | 🟡 |
