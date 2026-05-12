@@ -826,7 +826,7 @@ const PORTFOLIO_DATA = [
     "category": null,
     "created": "Wed Apr 08 2026 02:00:00 GMT+0200 (Central European Summer Time)",
     "code": null,
-    "parent": "second-renaissance",
+    "parent": "second-renaissance-courses",
     "tags": [
       "second-renaissance",
       "courses"
@@ -837,6 +837,28 @@ const PORTFOLIO_DATA = [
     "tracker": null,
     "owner": "rufus-pollock",
     "sitePath": "/initiatives/second-renaissance-course"
+  },
+  {
+    "slug": "second-renaissance-courses",
+    "type": "initiative",
+    "file": "initiatives/second-renaissance-courses.md",
+    "title": "Second Renaissance Courses",
+    "description": "Umbrella grouping for course-related work within the Second Renaissance initiative.",
+    "status": "active",
+    "category": "grouping",
+    "created": "Tue May 12 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
+    "parent": "second-renaissance",
+    "tags": [
+      "second-renaissance",
+      "courses"
+    ],
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": null,
+    "sitePath": "/initiatives/second-renaissance-courses"
   },
   {
     "slug": "second-renaissance-magazine",
@@ -1332,9 +1354,28 @@ const PORTFOLIO_DATA = [
     "tags": null,
     "url": null,
     "github": null,
-    "phase": null,
+    "phase": "shaping",
     "tracker": null,
     "owner": "sylvie-barbier",
     "sitePath": "/ideas/2r-movement-building-call"
+  },
+  {
+    "slug": "sensemaking-course",
+    "type": "idea",
+    "file": "ideas/sensemaking-course.md",
+    "title": "Sensemaking Course",
+    "description": "An idea for a course on sensemaking, under the Second Renaissance umbrella.",
+    "status": "idea",
+    "category": null,
+    "created": "Tue May 12 2026 02:00:00 GMT+0200 (Central European Summer Time)",
+    "code": null,
+    "parent": "second-renaissance-courses",
+    "tags": null,
+    "url": null,
+    "github": null,
+    "phase": null,
+    "tracker": null,
+    "owner": null,
+    "sitePath": "/ideas/sensemaking-course"
   }
 ];

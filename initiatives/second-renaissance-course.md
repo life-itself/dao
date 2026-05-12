@@ -4,7 +4,7 @@ description: Course programme for the Second Renaissance initiative, including t
 created: 2026-04-08
 status: active
 owner: rufus-pollock
-parent: [[second-renaissance]]
+parent: [[second-renaissance-courses]]
 tags:
   - second-renaissance
   - courses
