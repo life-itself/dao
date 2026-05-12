@@ -329,10 +329,15 @@ function drawProjects() {
       row.appendChild(badge);
     }
 
-    if (e.sitePath) {
+    const viewTarget = e.url || e.sitePath;
+    if (viewTarget) {
       const viewLink = document.createElement("a");
       viewLink.className = "view-link";
-      viewLink.href = e.sitePath;
+      viewLink.href = viewTarget;
+      if (e.url) {
+        viewLink.target = "_blank";
+        viewLink.rel = "noopener";
+      }
       viewLink.textContent = "View";
       viewLink.addEventListener("click", ev => ev.stopPropagation());
       row.appendChild(viewLink);
@@ -459,10 +464,15 @@ function drawTree() {
       row.appendChild(badge);
     }
 
-    if (e.sitePath) {
+    const viewTarget = e.url || e.sitePath;
+    if (viewTarget) {
       const viewLink = document.createElement("a");
       viewLink.className = "view-link";
-      viewLink.href = e.sitePath;
+      viewLink.href = viewTarget;
+      if (e.url) {
+        viewLink.target = "_blank";
+        viewLink.rel = "noopener";
+      }
       viewLink.textContent = "View";
       viewLink.addEventListener("click", ev => ev.stopPropagation());
       row.appendChild(viewLink);
