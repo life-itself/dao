@@ -1,5 +1,5 @@
 ---
-title: The Tao of Life Itself
+title: Welcome to the Dao of Life Itself
 ---
 
 The Tao is Life Itself's guide to what we stand for and how we operate.
