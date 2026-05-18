@@ -25,6 +25,11 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Drive</div>
     <div class="text-sm text-gray-600">All Team Drive — documents, drafts, and assets.</div>
   </a>
+  <a href="https://docs.google.com/spreadsheets/d/1wNzXw928BJs0FBhZsjqYIhCwFhmAHSP4/edit?gid=1974214468#gid=1974214468" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">🎬</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Media Index</div>
+    <div class="text-sm text-gray-600">Catalog of team media — videos, pictures, audio, podcasts.</div>
+  </a>
   <a href="https://docs.google.com/document/d/1jd6KuZ6Y0633soWIIkabuByTQzruw7PFifJlLdsY9l0/edit" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">🤝</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Meetings</div>
