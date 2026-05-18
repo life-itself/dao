@@ -65,14 +65,6 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 - [[narrative|Narrative]] — why we do what we do
 - [[scqh|SCQH]] — situation, complication, question, hypothesis
 
-### Handbook
-
-- [[ops|Operations and Finance]]
-- [[getting-stuff-done|Getting Stuff Done]]
-- [[working-with-us|Working With Us]]
-- [[communications|Comms Guide]]
-- [[library|Library]]
-
 ### Culture and principles
 
 - [[culture|Culture]]
