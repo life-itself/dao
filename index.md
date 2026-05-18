@@ -15,11 +15,6 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Calendar</div>
     <div class="text-sm text-gray-600">All Team Google Calendar — single source of truth for team-relevant time.</div>
   </a>
-  <a href="/portfolio/portfolio-indented.html" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">🗂️</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Portfolio</div>
-    <div class="text-sm text-gray-600">Strategic overview of initiatives, projects, and ideas Life Itself is pursuing.</div>
-  </a>
   <a href="https://drive.google.com/drive/u/3/folders/0BwmUU3AT2rRlQnRNSXM1NUY0NUE?resourcekey=0-z_PPzfQ-4t5xLRWVBgCkzA" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📁</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Drive</div>
@@ -54,6 +49,11 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="text-3xl mb-3">💬</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Feedback</div>
     <div class="text-sm text-gray-600">Internal team feedback on courses, events, and productions. <strong>(Coming soon)</strong></div>
+  </a>
+  <a href="/portfolio/portfolio-indented.html" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline opacity-60">
+    <div class="text-3xl mb-3">🗂️ ⏸️</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Portfolio</div>
+    <div class="text-sm text-gray-600">Strategic overview of initiatives, projects, and ideas Life Itself is pursuing. <strong>(Paused — not being pursued for now)</strong></div>
   </a>
 </div>
 
