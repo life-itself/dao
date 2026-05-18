@@ -15,7 +15,7 @@ How we work at Life Itself — practical guides for team members and collaborato
 
 ## Starting and capturing work
 
-- [[inbox|Ideas Inbox]] — capture a rough idea or suggestion
+- [[proposals|Proposals & Ideas]] — add an idea or proposal to the team Sheet
 - [[start-project|Start a Project]] — propose something new using Working Backwards
 
 ## Operations and admin

@@ -4,26 +4,51 @@ title: Welcome to the Dao of Life Itself
 
 The Tao is Life Itself's guide to what we stand for and how we operate.
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4 my-8 not-prose">
-  <a href="/portfolio/" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">📋</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Portfolio</div>
-    <div class="text-sm text-gray-600">Current initiatives and projects — what Life Itself is working on right now.</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8 not-prose">
+  <a href="https://docs.google.com/document/d/18eR578S8NREa228CryH1E_za2FYJOAbe4wiQnpyTLvI/edit" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">📊</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Workplan & Project DB</div>
+    <div class="text-sm text-gray-600">Weekly and monthly operational plan, owners, deadlines, status. Project DB sub-view holds the financial ledger.</div>
   </a>
-  <a href="/handbook/inbox" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">📅</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Calendar</div>
+    <div class="text-sm text-gray-600">All Team Google Calendar — single source of truth for team-relevant time.</div>
+  </a>
+  <a href="/portfolio/portfolio-indented.html" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">🗂️</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Portfolio</div>
+    <div class="text-sm text-gray-600">Strategic overview of initiatives, projects, and ideas Life Itself is pursuing.</div>
+  </a>
+  <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">📁</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Drive</div>
+    <div class="text-sm text-gray-600">All Team Drive — documents, drafts, and assets.</div>
+  </a>
+  <a href="https://docs.google.com/document/d/1jd6KuZ6Y0633soWIIkabuByTQzruw7PFifJlLdsY9l0/edit" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">🤝</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Meetings</div>
+    <div class="text-sm text-gray-600">Weekly meeting notes, agendas, and recordings — the live Google Doc.</div>
+  </a>
+  <a href="/handbook/" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">📖</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Handbook</div>
+    <div class="text-sm text-gray-600">How we work — culture, principles, practices, narrative, and operational guides.</div>
+  </a>
+  <a href="https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💡</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Capture an Idea</div>
-    <div class="text-sm text-gray-600">Got a thought or suggestion? Log it before it disappears.</div>
+    <div class="text-sm text-gray-600">Add an idea or proposal to the team Sheet — triaged, discussed, and shaped from there.</div>
   </a>
-  <a href="/handbook/weekly-focus" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">📅</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Weekly Focus</div>
-    <div class="text-sm text-gray-600">Who is working on what this week — team plans and current focus.</div>
+  <a href="/handbook/onboarding" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">🌱</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Onboarding</div>
+    <div class="text-sm text-gray-600">Entry point for new team members — start here after joining.</div>
   </a>
-  <a href="/handbook/start-project" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">🚀</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Start a Project</div>
-    <div class="text-sm text-gray-600">Propose or kick off something new — the Working Backwards process.</div>
+  <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">💬</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Feedback</div>
+    <div class="text-sm text-gray-600">Internal team feedback on Life Itself and 2R courses, events, and productions. (Coming soon)</div>
   </a>
 </div>
 
