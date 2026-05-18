@@ -8,7 +8,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
   <a href="https://docs.google.com/spreadsheets/d/1_PgSkvZBahV-Wpa-JLHb3C7uk9KhqNFpTUjxcKUMn4E/edit?gid=1688184322#gid=1688184322" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📊</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Workplan & Project DB</div>
-    <div class="text-sm text-gray-600">Weekly and monthly operational plan, owners, deadlines, status. Project DB sub-view holds the financial ledger.</div>
+    <div class="text-sm text-gray-600">Weekly and monthly operational plan, owners, deadlines, status.</div>
   </a>
   <a href="https://calendar.google.com/calendar/embed?src=artearthtech.com_n619nmu4g1edbi13b573v31pmg%40group.calendar.google.com&ctz=Europe%2FParis" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📅</div>
