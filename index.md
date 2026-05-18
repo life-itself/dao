@@ -72,14 +72,6 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 - [[principles|Principles]]
 - [[practices|Practices]]
 
-### Strategy and portfolio detail
-
-- [[strategy/|Strategy]] — analysis, archive, log
-- [[initiatives/|Initiatives]] — full list
-- [[projects/|Projects]] — full list
-- [[meetings/|Meeting notes]]
-- [[plans/|Weekly plans]]
-
 ---
 
 ## How to Read the Tao
