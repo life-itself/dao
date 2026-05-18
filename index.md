@@ -53,7 +53,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
   <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💬</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Feedback</div>
-    <div class="text-sm text-gray-600">Internal team feedback on courses, events, and productions. (Coming soon)</div>
+    <div class="text-sm text-gray-600">Internal team feedback on courses, events, and productions. <strong>(Coming soon)</strong></div>
   </a>
 </div>
 
