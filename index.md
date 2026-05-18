@@ -10,7 +10,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Workplan & Project DB</div>
     <div class="text-sm text-gray-600">Weekly and monthly operational plan, owners, deadlines, status. Project DB sub-view holds the financial ledger.</div>
   </a>
-  <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="https://calendar.google.com/calendar/u/0/r?cid=YWxsLXRlYW1AbGlmZWl0c2VsZi5vcmc" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📅</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Calendar</div>
     <div class="text-sm text-gray-600">All Team Google Calendar — single source of truth for team-relevant time.</div>
