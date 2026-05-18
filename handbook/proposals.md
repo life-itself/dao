@@ -37,7 +37,7 @@ Agenda items are covered as time allows; otherwise they roll to a later meeting 
 
 ## What happens after discussion
 
-- **Shaped** → gets a Google Doc for fleshing out; Armelle manually adds it to the dao repo (`ideas/*.md` or project entry). Promotion to the Portfolio is manual and owned by Armelle.
+- **Shaped** → gets a Google Doc for fleshing out; Armelle captures the item in the Proposals Sheet and, if needed, later promotes it to a project entry. Promotion to the Portfolio is manual and owned by Armelle.
 - **Absorbed** → folded into an existing project (decision note links to it).
 - **Closed** → not pursued (short reason in decision note).
 - **Parked** → left open until the moment is right.
@@ -46,3 +46,9 @@ Agenda items are covered as time allows; otherwise they roll to a later meeting 
 
 - **Primary:** Armelle
 - **Backup:** Rufus
+
+## Migration note
+
+Older idea notes that used to live in `ideas/*.md` have been migrated to the Proposals Sheet:
+
+https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446

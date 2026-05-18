@@ -6,9 +6,7 @@ Published at https://tao.lifeitself.org
 
 ## What's here
 
-- [`initiatives/`](initiatives/) — what Life Itself does: one file per enduring initiative
-- [`portfolio/`](portfolio/) — interactive portfolio map and data index
-- [`projects/`](projects/) — bounded efforts under initiatives
+- [`portfolio/`](portfolio/) — interactive portfolio map and data snapshot
 - [`plans/`](plans/) — weekly operational plans
 - [`meetings/`](meetings/) — meeting notes
 - [`people/`](people/) — team profiles
@@ -18,6 +16,4 @@ The rest of the repo is the Tao itself: culture, principles, practices, ops, onb
 
 ## Working in this repo
 
-See [AGENTS.md](AGENTS.md) for the data model, frontmatter schema, file conventions, status values, and build instructions.
-
-For local Git hook setup, see [CONTRIBUTING.md](CONTRIBUTING.md).
+See [AGENTS.md](AGENTS.md) for the data model, file conventions, and current portfolio data layout.

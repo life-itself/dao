@@ -15,4 +15,4 @@ Umbrella grouping for course-related work within the Second Renaissance initiati
 ## Courses
 
 - [[initiatives/second-renaissance-course|2R Course]]
-- [[ideas/sensemaking-course|Sensemaking Course]] (idea)
+- Sensemaking Course (idea) - tracked in the Proposals Sheet: https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446

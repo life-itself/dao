@@ -132,8 +132,10 @@ Max **4 primary cards** on the landing page. Each card: icon or image, 1-line de
 │  📋 Portfolio       │  │  💡 Capture an Idea  │
 │  What we're         │  │  Log a thought       │
 │  working on         │  │  or suggestion       │
-│  → /portfolio/      │  │  → /ideas            │
+│  → /portfolio/      │  │  → Proposals Sheet   │
 └─────────────────────┘  └─────────────────────┘
+
+Proposals Sheet: https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446
 
 ┌─────────────────────┐  ┌─────────────────────┐
 │  📅 Weekly Focus    │  │  🚀 Start a Project  │
