@@ -45,6 +45,11 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Onboarding</div>
     <div class="text-sm text-gray-600">Entry point for new team members — start here after joining.</div>
   </a>
+  <a href="/people/" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+    <div class="text-3xl mb-3">👥</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">People</div>
+    <div class="text-sm text-gray-600">Team members, roles, and email addresses.</div>
+  </a>
   <a href="#" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💬</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Feedback</div>
