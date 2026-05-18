@@ -34,5 +34,6 @@ How we work at Life Itself — practical guides for team members and collaborato
 - [[library|Library]] — shared reading and resources
 - [[issues|Issues and Tasks]] — how we track work
 - [[meetings|Meetings Guide]] — how we run meetings
+- [[feedback-template|Feedback Template]] — reusable Sheet for team feedback on events, courses, residencies
 - [[weekly-focus|Weekly Focus]] — who is working on what (under construction)
 - [[events|Events]] — how we run events
