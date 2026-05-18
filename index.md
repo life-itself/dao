@@ -61,7 +61,6 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 
 ### Find people and context
 
-- [[onboarding|Onboarding]] — new joiner guide
 - [[people/|People]] — team profiles and roles
 - [[narrative|Narrative]] — why we do what we do
 - [[scqh|SCQH]] — situation, complication, question, hypothesis
