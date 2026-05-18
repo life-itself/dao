@@ -71,3 +71,22 @@ questions:
 
 On the issue tree — the SCQA in motivation.md gets to Q1 (architecture) and Q2 (identity). The issue tree branch that's underdeveloped is Q3: execution — once we know what 2R is and what
 channels it uses, what do we actually produce and at what cadence?
+
+### Prior strategy work: v3 SCQH (2022)
+
+[[SCQH for v3 strategy - why do the revision]] is the closest prior analogue to this doc — same structure (SCQH + issue tree) applied to the v3 strategy revision. Worth reviewing before building the issue tree for 2026.
+
+Key points from that doc:
+- S: post-2020 strategy was Hubs + catalysing big vision conversations
+- C: too high-level in brand and offer; audience not specific enough; hubs not working
+- Q: What is our new strategy?
+- H: high-level unchanged from 2021 SCQH; meso/micro significantly updated (see Big Strategy mid-2022)
+
+### Unfinished 2026 strategy doc
+
+There is a full draft strategy doc for 2026 written earlier this year — unfinished and possibly over-ambitious. Should be reviewed and either completed, scoped down, or used as raw material before starting fresh.
+
+## Inbox items to file
+
+- **History/timeline of Life Itself strategies** — short overview doc tracing the arc from v1 through v3 to 2026. Useful orientation doc and good forcing function for seeing what's changed and why.
+- **Export/present 2025 plan** — get a clean export of the 2025 plan plus all supporting materials, possibly presented as a video or script. Good record and potential comms asset.
