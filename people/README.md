@@ -6,15 +6,15 @@ created: 2026-05-18
 
 Life Itself team members and their email addresses.
 
-| Name | Email |
-|------|-------|
-| [[rufus-pollock\|Rufus Pollock]] | rufus@lifeitself.org |
-| [[sylvie-barbier\|Sylvie Barbier]] | sylvie@lifeitself.org |
-| [[armelle-boussidan\|Armelle Boussidan]] | armelle@lifeitself.org |
-| [[jarlath-rice\|Jarlath Rice]] | jarlath@lifeitself.org |
-| [[yoyo-pasieka\|Yoyo Pasieka]] | yoyo@lifeitself.org |
-| [[matthew-de-caussin\|Matthew de Caussin]] | matthew@lifeitself.org |
-| [[valerie-duvauchelle\|Valérie Duvauchelle]] | valerie@lifeitself.org |
+| Name | Tags | Email |
+|------|------|-------|
+| [[rufus-pollock\|Rufus Pollock]] | Founder | rufus@lifeitself.org |
+| [[sylvie-barbier\|Sylvie Barbier]] | Founder | sylvie@lifeitself.org |
+| [[armelle-boussidan\|Armelle Boussidan]] | Coordination | armelle@lifeitself.org |
+| [[jarlath-rice\|Jarlath Rice]] | Video Production, Education | jarlath@lifeitself.org |
+| [[yoyo-pasieka\|Yoyo Pasieka]] | Communications | yoyo@lifeitself.org |
+| [[matthew-de-caussin\|Matthew de Caussin]] | Operations | matthew@lifeitself.org |
+| [[valerie-duvauchelle\|Valérie Duvauchelle]] | Tenzo, Retreat Host | valerie@lifeitself.org |
 
 ## Shared inboxes
 
