@@ -6,7 +6,7 @@ The Tao is Life Itself's guide to what we stand for and how we operate.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8 not-prose">
   <a href="https://docs.google.com/spreadsheets/d/1Zre0sYeIeFTqij5FWYIzPlvto95XDcSev4Y7YRJnXco/edit?gid=1688184322#gid=1688184322" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">📊</div>
+    <div class="text-3xl mb-3">🧭</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Workplan 2026</div>
     <div class="text-sm text-gray-600">Weekly operational plan, owners, deadlines, status.</div>
   </a>
