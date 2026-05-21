@@ -24,5 +24,6 @@ Life Itself team members and their email addresses.
 | ops@lifeitself.us | Operations, finance, admin |
 | people-team@lifeitself.org | HR and onboarding |
 | praxis@lifeitself.org | Bergerac hub |
+| comms-team@lifeitself.org | Communications |
 | jobs@lifeitself.org | Hiring |
 | all-team@lifeitself.org | Whole-team distribution + calendar |
