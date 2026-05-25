@@ -221,7 +221,7 @@ Here is the suggested agenda for the Welcome Call with the new team member. It s
 * Talk about Values & Culture briefly, as our emphasis on culture is an important and distinctive part of our approach.
   * Why that’s important to us.
   * Example: Integrity.
-* Does the Onboardee have any questions about culture not answered in the Tao?
+* Does the Onboardee have any questions about culture not answered in the Dao?
 
 ### Onboarding
 

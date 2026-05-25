@@ -18,7 +18,7 @@ H: define done as "answering the issue tree" and/or **questions answered** -- wh
 
 Two related but distinct bodies of work:
 
-1. **Overall strategy** — Life Itself 2026 and beyond (lives in tao)
+1. **Overall strategy** — Life Itself 2026 and beyond (lives in dao)
 2. **Comms strategy + content roadmap** — how we communicate (may live in comms repo)
 
 Clarify which repo the comms work lives in before starting.

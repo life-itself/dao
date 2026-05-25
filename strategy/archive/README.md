@@ -27,7 +27,7 @@ For context on how these fit together see the [overview diagram](../../excalidra
 - [Life Itself '3 year (?)' Plan Ideas Summer 2024](Life%20Itself%20'3%20year%20(%3F)'%20Plan%20Ideas%20Summer%202024.md)
 - [Strategy levels - macro-meso-micro](Strategy%20levels%20-%20macro-meso-micro.md)
 - [Strategy Micro to Macro diagram](Strategy%20Micro%20to%20Macro%20diagram.md)
-- [Tao Plans Page 2021](Tao%20Plans%20Page%202021.md)
+- [Dao Plans Page 2021](Dao%20Plans%20Page%202021.md)
 
 ### Reviews & Retrospectives
 
@@ -47,4 +47,4 @@ For context on how these fit together see the [overview diagram](../../excalidra
 
 - [Community Day 2020](Community%20Day%202020.md)
 - [Critical Point 2021 deck](Critical%20Point%202021%20deck.md)
-- [Tao SCQH "Reason for Existence" Page](Tao%20SCQH%20%22Reason%20for%20Existence%22%20Page.md)
+- [Dao SCQH "Reason for Existence" Page](Dao%20SCQH%20%22Reason%20for%20Existence%22%20Page.md)

@@ -6,7 +6,7 @@ This file documents conventions for working in this repository — useful both f
 
 The repo has four layers:
 
-**Identity** (root) — the philosophical core of the tao: `culture.md`, `views.md`, `principles.md`, `practices.md`, `narrative.md`, `scqh.md`.
+**Identity** (root) — the philosophical core of the dao: `culture.md`, `views.md`, `principles.md`, `practices.md`, `narrative.md`, `scqh.md`.
 
 **Handbook** (`handbook/`) — day-to-day operational how-to docs: onboarding, ops, comms, getting-stuff-done, working-with-us, inbox, start-project, etc.
 
@@ -23,7 +23,7 @@ The repo has four layers:
 - `strategy/archive/` — historical strategy materials (hidden from sidebar)
 - `strategy/log/` — raw outflow notes (hidden from sidebar)
 
-**Planning docs for the tao itself** (`docs/plans/`) — improvement plans and UX work for this site.
+**Planning docs for the dao itself** (`docs/plans/`) — improvement plans and UX work for this site.
 
 ## Data model
 

@@ -4,7 +4,7 @@ date:
 url: https://lifeitself.org/tao/scqh
 doctype: blog post
 published: blog
-description: Page on Tao outlining Reason for Existence SCQH from 2017-2020
+description: Page on Dao outlining Reason for Existence SCQH from 2017-2020
 version: 1 + 2
 level: macro
 form: scqh + issue tree

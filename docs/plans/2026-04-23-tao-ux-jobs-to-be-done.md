@@ -10,11 +10,11 @@ This is a knowledge management and information architecture layer for team coord
 
 - Make the team's information legible, findable, and maintainable.
 - Support coordination, planning, and work initiation by surfacing the right context at the right time.
-- Improve the tao site as the front door for this system, starting with the landing page and key destination pages.
+- Improve the dao site as the front door for this system, starting with the landing page and key destination pages.
 
 This is not a decision about the team's working process itself, though it supports and shapes that process.
 
-The guiding principle: a visitor landing on the tao should reach what they need in **one click**, and the landing page should present no more than **3–5 primary options** before nesting further detail.
+The guiding principle: a visitor landing on the dao should reach what they need in **one click**, and the landing page should present no more than **3–5 primary options** before nesting further detail.
 
 ---
 
@@ -78,8 +78,8 @@ Status legend:
 
 | # | Job | User says... | Priority | Current answer | Status |
 |---|-----|-------------|----------|---------------|--------|
-| A6 | Know where to put a document | "Should this go in Drive or GitHub? Where does [type of doc] live?" | P1 | Documented in team coordination hub notes; not surfaced in tao | 🟠 |
-| A7 | Find a specific document or resource | "Where is the comms guide / ops guide / [thing]?" | P2 | Scattered across tao; search exists in published site | 🟡 |
+| A6 | Know where to put a document | "Should this go in Drive or GitHub? Where does [type of doc] live?" | P1 | Documented in team coordination hub notes; not surfaced in dao | 🟠 |
+| A7 | Find a specific document or resource | "Where is the comms guide / ops guide / [thing]?" | P2 | Scattered across dao; search exists in published site | 🟡 |
 | B4 | Log meeting notes | "We just had a meeting. Where do I put the notes?" | P2 | What meeting notes should look like is still unclear. | 🟡 |
 | B5 | Add an event to the calendar | "We have an event. Where does it go?" | P3 | The calendar target is still unclear, likely the content calendar. | 🟡 |
 

@@ -10,7 +10,7 @@
 
 Two jobs, in priority order:
 
-**A1 — "What is Life Itself working on?"** (from tao UX JTBD doc)  
+**A1 — "What is Life Itself working on?"** (from dao UX JTBD doc)  
 High-level, not week-specific. Strategic landscape. For team members and new collaborators.
 
 **J3 — Strategic planning** (from portfolio PLAN.md)  

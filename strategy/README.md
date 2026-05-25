@@ -22,7 +22,7 @@ The thinking and analysis layer for Life Itself — working documents, strategic
 
 ## History of strategy work
 
-- **2026–ongoing** — Great Convergence: merging strategy repo into tao as single knowledge base
+- **2026–ongoing** — Great Convergence: merging strategy repo into dao as single knowledge base
 - **Jun 2024–ongoing** — Strategy review and planning (ongoing)
 - **Jan 2024** ⏸️ — [Presenting our strategy (as is)](../projects/2024-presenting-our-strategy-v3.md) — produced KB and most materials
 - **Sep 2021** — Updated and consolidated Core SCQH / logic of existence / theory of change

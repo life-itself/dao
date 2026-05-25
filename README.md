@@ -1,6 +1,6 @@
-# Life Itself Tao
+# Life Itself Dao
 
-The single knowledge base for [Life Itself](https://lifeitself.org/) — our tao (way), strategy, portfolio, and operational guide.
+The single knowledge base for [Life Itself](https://lifeitself.org/) — our dao (way), strategy, portfolio, and operational guide.
 
 Published at https://tao.lifeitself.org
 
@@ -12,7 +12,7 @@ Published at https://tao.lifeitself.org
 - [`people/`](people/) — team profiles
 - [`strategy/`](strategy/) — thinking layer: strategic analysis, historical archive, log
 
-The rest of the repo is the Tao itself: culture, principles, practices, ops, onboarding.
+The rest of the repo is the Dao itself: culture, principles, practices, ops, onboarding.
 
 ## Working in this repo
 

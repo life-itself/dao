@@ -10,5 +10,4 @@ level: macro
 form: Brand narrative
 completion: polished
 ---
-![[tao-brand-narrative.png]]
-
+![[../assets/tao-brand-narrative.png]]
