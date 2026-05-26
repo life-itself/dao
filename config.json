@@ -33,7 +33,7 @@
     ]
   },
   "contentExclude": ["AGENTS.md", "CLAUDE.md"],
-  "contentHide": ["strategy/archive", "strategy/log"],
+  "contentHide": ["strategy/archive", "strategy/log", "people"],
   "redirects": [
     { "from": "/communications", "to": "/handbook/communications" },
     { "from": "/events", "to": "/handbook/events" },
