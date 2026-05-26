@@ -41,11 +41,15 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Meetings</div>
     <div class="text-sm text-gray-600">Weekly meeting notes, agendas, and recordings — the live Google Doc.</div>
   </a>
-  <a href="/handbook/" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">📖</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Handbook</div>
-    <div class="text-sm text-gray-600">How we work — culture, principles, practices, narrative, and operational guides.</div>
-  </a>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Handbook &amp; Onboarding</div>
+    <div class="text-sm text-gray-600 mb-3">How we work — culture, principles, practices, and operational guides. New here? Start with onboarding.</div>
+    <div class="flex flex-col gap-2">
+      <a href="/handbook/" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Open the Handbook</a>
+      <a href="/handbook/onboarding" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Onboarding: start here</a>
+    </div>
+  </div>
   <a href="https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💡</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Capture an Idea</div>
@@ -55,11 +59,6 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
     <div class="text-3xl mb-3">💬</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Feedback</div>
     <div class="text-sm text-gray-600">Internal team feedback on courses, events, and productions. Duplicate the template per event.</div>
-  </a>
-  <a href="/handbook/onboarding" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
-    <div class="text-3xl mb-3">🌱</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Onboarding</div>
-    <div class="text-sm text-gray-600">Entry point for new team members — start here after joining.</div>
   </a>
   <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">💰</div>
