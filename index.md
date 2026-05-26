@@ -46,6 +46,15 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
     <div class="font-semibold text-gray-900 text-lg mb-1">Handbook</div>
     <div class="text-sm text-gray-600">How we work — culture, principles, practices, narrative, and operational guides.</div>
   </a>
+  <div class="block p-6 border border-gray-200 rounded-lg">
+    <div class="text-3xl mb-3">💰</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Getting Paid</div>
+    <div class="text-sm text-gray-600 mb-3">How and when you get paid, invoicing, and pay logistics.</div>
+    <div class="flex flex-col gap-2">
+      <a href="https://docs.google.com/document/d/1e8ZRmp-VKd1D6RkFUOsYf2GSzI4XksyBjBiXKWfzBH0/edit?tab=t.0#heading=h.f1rjj5k8g8lx" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Getting Paid (doc)</a>
+      <a href="/handbook/working-with-us" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Working with us</a>
+    </div>
+  </div>
   <a href="https://docs.google.com/spreadsheets/d/1kqqd9yEwpO0SyaCyVB8EdDvBvFA0U7n-gz0gXLgV32w/edit?gid=345846446#gid=345846446" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">💡</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Capture an Idea</div>
