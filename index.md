@@ -7,10 +7,10 @@ Welcome. Whether you're new here or have been with us for years, this is our sha
 The Dao is Life Itself's guide to what we stand for and how we operate.
 
 <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 my-8 not-prose">
-  <a href="https://docs.google.com/spreadsheets/d/1Zre0sYeIeFTqij5FWYIzPlvto95XDcSev4Y7YRJnXco/edit?gid=1688184322#gid=1688184322" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
+  <a href="https://docs.google.com/spreadsheets/d/1Zre0sYeIeFTqij5FWYIzPlvto95XDcSev4Y7YRJnXco/edit?gid=1792775552#gid=1792775552" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">🧭</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Workplan 2026</div>
-    <div class="text-sm text-gray-600">Weekly operational plan, owners, deadlines, status.</div>
+    <div class="text-sm text-gray-600">Add your tasks in the TEAM tab, and the workplan builds itself by project. New here? Read the HOW TO USE tab first.</div>
   </a>
   <a href="https://calendar.google.com/calendar/embed?src=artearthtech.com_n619nmu4g1edbi13b573v31pmg%40group.calendar.google.com&ctz=Europe%2FParis" class="block p-6 border border-gray-200 rounded-lg hover:border-gray-400 transition-colors no-underline">
     <div class="text-3xl mb-3">📅</div>
