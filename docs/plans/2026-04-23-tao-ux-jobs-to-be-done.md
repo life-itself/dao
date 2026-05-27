@@ -192,7 +192,7 @@ Not in original plan but done as part of this work:
 
 ### Step 6 (future): Weekly focus
 
-- [ ] Decide on approach for lightweight weekly focus visibility — options: GitHub issues, a dedicated weekly update format, or something else. `handbook/weekly-focus.md` is stubbed as placeholder. Needs team input on what level of visibility is actually useful before building anything.
+- [x] Decide on approach for lightweight weekly focus visibility — options: GitHub issues, a dedicated weekly update format, or something else. `handbook/weekly-focus.md` is stubbed as placeholder. Needs team input on what level of visibility is actually useful before building anything.
 
 ### Step 7 (future): Search optimisation
 
