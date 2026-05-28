@@ -95,6 +95,7 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
 - [[practices|Practices]]
 -->
 
+<!-- "How to Read the Dao" hidden, homepage kept to tiles only
 ---
 
 ## How to Read the Dao
@@ -106,3 +107,4 @@ Before we begin, it is useful to emphasize a point made originally in the contex
 > The wise enshrine the miraculous bones of the ancients within themselves: they apply the teachings to themselves and their situations not just in their thoughts. They regard the teachings of the way not as an external body of knowledge to be possessed or as an inflexible dogma to be believed or revered but as something living to be practised.
 >
 > Ultimately, there is no fixed teaching. Nevertheless the real wisdom, the teaching of the awakening ones, is of one uniform flavor, that of liberation. Just as many rivers lead to the sea, where their different flavours share the unifying taste of salt, so do the teachings of wisdom flow together into the sea of awakening and become one with liberation.
+-->
