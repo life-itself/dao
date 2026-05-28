@@ -78,6 +78,7 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
   -->
 </div>
 
+<!-- "Everything else" hidden (redundant with tiles + sidebar)
 ## Everything else
 
 ### Find people and context
@@ -92,6 +93,7 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
 - [[views|Views]]
 - [[principles|Principles]]
 - [[practices|Practices]]
+-->
 
 ---
 
