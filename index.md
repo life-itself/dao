@@ -14,8 +14,8 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
   </a>
   <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">📅</div>
-    <div class="font-semibold text-gray-900 text-lg mb-1">Calendar</div>
-    <div class="text-sm text-gray-600 mb-3">All Team Google Calendar — single source of truth for team-relevant time.</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Our Team Calendar</div>
+    <div class="text-sm text-gray-600 mb-3">Single source of truth for team-relevant time.</div>
     <div class="flex flex-col gap-2">
       <a href="https://calendar.google.com/calendar/embed?src=artearthtech.com_n619nmu4g1edbi13b573v31pmg%40group.calendar.google.com&ctz=Europe%2FParis" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ Open the calendar</a>
       <a href="/calendar" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ How to add an event</a>
