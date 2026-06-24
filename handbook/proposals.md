@@ -27,7 +27,7 @@ The Sheet is team-only. External proposals are not submitted directly — a team
    - **Status** — defaults to New
    - **Decision note** — left blank, filled in after discussion
    - **Discussed at meeting on** — date, filled in after discussion
-3. If the Short description column isn't enough, create a Google Doc in [this Drive folder](https://drive.google.com/drive/u/3/folders/1lXkwDJzeh4ky399XTJWXjhvtDlijK6dr) and paste the link into the Short description cell.
+3. If the Short description column isn't enough, create a Google Doc in [this Drive folder](https://drive.google.com/drive/folders/1lXkwDJzeh4ky399XTJWXjhvtDlijK6dr) and paste the link into the Short description cell.
 
 ## Bringing a Proposal to a meeting
 
