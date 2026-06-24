@@ -64,6 +64,15 @@ The Dao is Life Itself's guide to what we stand for and how we operate.
     <div class="text-sm text-gray-600">Internal team feedback on courses, events, and productions. Duplicate the template per event.</div>
   </a>
   <div class="block p-6 border border-gray-200 rounded-lg">
+    <div class="text-3xl mb-3">🚀</div>
+    <div class="font-semibold text-gray-900 text-lg mb-1">Propose a Project</div>
+    <div class="text-sm text-gray-600 mb-3">Got a new project idea? Make a copy of the A10 proposal template, fill it in, then file your copy in the proposals folder.</div>
+    <div class="flex flex-col gap-2">
+      <a href="https://docs.google.com/document/d/1OQNdrZuejA-z9nRI6ahegmRkF3bt2Gw4EgUML0g2fqo/edit?tab=t.0#heading=h.599vpyhb8naq" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ A10 proposal template (copy it)</a>
+      <a href="https://drive.google.com/drive/u/3/folders/1HX7piAU2exI9-8MwdgFPv-wf3WyvXPBn" class="text-sm text-blue-700 hover:text-blue-900 hover:underline">→ File your proposal here</a>
+    </div>
+  </div>
+  <div class="block p-6 border border-gray-200 rounded-lg">
     <div class="text-3xl mb-3">💰</div>
     <div class="font-semibold text-gray-900 text-lg mb-1">Getting Paid</div>
     <div class="text-sm text-gray-600 mb-3">How and when you get paid, invoicing, and pay logistics.</div>
