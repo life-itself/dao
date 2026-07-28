@@ -60,6 +60,8 @@ None for this issue. Here you might include your questions and hypotheses, or ot
 
 Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
 
+**Example:** See this GitHub issue for a real example of this structure: [Issue](https://github.com/life-itself/community/issues/1213).
+
 **Tip:** On Github you can create an issue template so this structure is always present.
 
 ### Issue Naming
