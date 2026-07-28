@@ -97,9 +97,6 @@ This is my exciting onboarding issue! 🌱
   
 ### Extra Steps
 
-* [ ] Watched (or read) "What Life Itself is about" from Further Reading
-  * [ ] Written a short summary about integrity and other values (part I)
-  * [ ] Written a short summary of our theory of change (part II)
 * [ ] Read about how to create a perfect issue in GitHub: https://tao.lifeitself.org/issues/
 * Read about getting things done
   * [ ] Playbook: https://datopian.com/playbook/getting-things-done/
