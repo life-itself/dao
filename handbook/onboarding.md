@@ -114,7 +114,7 @@ This is my exciting onboarding issue! 🌱
 
 After setting up your email address, you will have access to **GSuite**, and of course, [Google Drive](https://drive.google.com/drive/).
 
-The Onboarder will have granted you access to relevant Team Drives. Initially, you should have access to All Team - Life Itself, Finance & Operations - Life Itself, Raw Content Store and Second Renaissance in the Shared Drives. This will allow you to access and store the information / documents you require.
+The Onboarder will have granted you access to relevant Team Drives. Initially, you should have access to **All Team - Life Itself**, **Finance & Operations - Life Itself**, **Raw Content Store** and **Second Renaissance** in the Shared Drives. This will allow you to access and store the information / documents you require.
 
 * Any new documents / sheets / presentations you create should be created in the appropriate folder in the Team Drive, **not your personal drive**. This speaks to our open and collaborative working culture and avoids having to explicitly share files with people.
 * If you require access to files that you currently don't have access to, please reach out to your Onboarder.
