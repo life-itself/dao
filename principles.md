@@ -4,7 +4,7 @@ These are the principles and values which shape the culture of our community.
  
 ## Interdependence
 
-![[../assets/tao/traits-interdependence.jpg]]
+![[/assets/traits-interdependence.jpg]]
  
 We are happy to depend on others, and have them depend on us.
  
@@ -12,7 +12,7 @@ We need to share resources to achieve our individual and collective aims. This r
  
 ## Surplus making
 
-![[../assets/tao/traits-surplus-making.png]]
+![[/assets/traits-surplus-making.png]]
  
 We understand that money is essential to the long-term sustainability and impact of our work at Life Itself.
  
@@ -20,7 +20,7 @@ We want to be materially sustainable and independent (over multiple generations)
  
 ## Transformation
 
-![[../assets/tao/traits-transformation.jpg]]
+![[/assets/traits-transformation.jpg]]
  
 We believe that transformation is possible and that this takes training and applied practice.
  
@@ -28,7 +28,7 @@ We engage in ongoing practice and training to develop ourselves, to be well and 
  
 ## Coliving
 
-![[../assets/tao/traits-coliving.png]]
+![[/assets/traits-coliving.png]]
 
 To nourish and sustain a shared culture we need to spend time together. This can mean living together in community hubs and during the Gathering, or spending time together during work sprints.
  
@@ -40,7 +40,7 @@ Coliving brings with it shared practices, fellowship and lived community. It bri
  
 ## Zen & Mindfulness
 
-![[../assets/tao/traits-zen.jpg]]
+![[/assets/traits-zen.jpg]]
  
 Our ontology and philosophy are grounded in Zen and mindfulness. Zen is not a philosophy or a religion. Zen tries to free the mind from the slavery of words and the constriction of logic. Zen in its essence is the art of seeing into the nature of one's own being, and it points the way from bondage to freedom. Zen is meditation.
  
@@ -48,7 +48,7 @@ Key ideas: you are not your thoughts, be here now, non-attachment to views, enli
  
 ## Open-minded rigour
 
-![[../assets/tao/traits-open-minded-rigor.jpg]]
+![[/assets/traits-open-minded-rigor.jpg]]
  
 "Open-mindedness" means openness to new approaches and new ideas. You question received wisdom and, most of all, yourself ("Am I sure?"). One of the greatest pitfalls as human beings is that we get attached to our views, we identify with them, and we hold on them for dear life. Freedom and power comes from holding our views lightly.
  
@@ -58,7 +58,7 @@ We bring open-minded rigour to our practical, intellectual and spiritual endeavo
  
 ## Getting Stuff Done
 
-![[../assets/tao/traits-getting-stuff-done.jpg]]
+![[/assets/traits-getting-stuff-done.jpg]]
 
 We ship, we do, we get stuff done.
  
@@ -68,7 +68,7 @@ It takes dedication and effort to be great, to build something big. We want to c
 
 ## Experimentation and Creativity
 
-![[../assets/tao/traits-experimental.jpg]]
+![[/assets/traits-experimental.jpg]]
 
 We are open to experiment and change.
  
