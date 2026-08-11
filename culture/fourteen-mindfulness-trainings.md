@@ -81,15 +81,21 @@ Aware that words can create happiness or suffering, we are committed to learning
 
 ## The Tenth Mindfulness Training: Protecting and Nourishing the Sangha
 
-Aware that the essence and aim of a Sangha is the practice of understanding and compassion, we are determined not to use the community for personal power or profit, or transform our community into a political instrument. As members of a spiritual community, we should nonetheless take a clear stand against oppression and injustice. We should strive to change the situation, without taking sides in a conflict. We are committed to learning to look with the eyes of interbeing and to see ourselves and others as cells in one Sangha body. As a true cell in the Sangha body, generating mindfulness, concentration, and insight to nourish ourselves and the whole community, each of us is at the same time a cell in the Buddha body. We will actively build brotherhood and sisterhood, flow as a river, and practice to develop the three real powers – understanding, love, and cutting through afflictions – to realise collective awakening.
+Aware that the essence and aim of a Sangha is the practice of understanding and compassion, we are determined not to use the community for personal power or profit, or transform our community into a political instrument. We should nonetheless take a clear stand against oppression and injustice. We should strive to change the situation, without taking sides in a conflict. We are committed to learning to look with the eyes of interbeing and to see ourselves and others as cells in one Sangha body. As a true cell in the Sangha body, generating mindfulness, concentration, and insight to nourish ourselves and the whole community, each of us is at the same time a cell in the Buddha body. We will actively build brotherhood and sisterhood, flow as a river, and practice to develop the three real powers – understanding, love, and cutting through afflictions – to realise collective awakening.
 
 ### Commentary
 
-*For us, we take the prohibition about not becoming a "political instrument" to mean not becoming a narrow political party (earlier versions of the text had "Do not … transform your community into a political party"). We explicitly allow and even intend for our community to be politically engaged, not just individually but as an organization. We anticipate engaging in "political" work in the sense of collective action for social change including contributing to social and political movements.*
+> determined not to ... transform our community into a political instrument.
+
+*For us, we take this injunction not to become a "political instrument" as guidance to avoid becoming narrowly party political (earlier versions of the text had "Do not … transform your community into a political party"). We explicitly allow and even encourage our community to be politically engaged, not just individually but as an organization. We anticipate engaging in "political" work in the sense of collective action for social change including contributing to social and political movements and parties.*
 
 ## The Eleventh Mindfulness Training: Right Livelihood
 
 Aware that great violence and injustice have been done to our environment and society, we are committed not to live with a vocation that is harmful to humans and nature. We will do our best to select a livelihood that contributes to the wellbeing of all species on earth and helps realise our ideal of understanding and compassion. Aware of economic, political, and social realities around the world, as well as our interrelationship with the ecosystem, we are determined to behave responsibly as consumers and as citizens. We will not invest in or purchase from companies that contribute to the depletion of natural resources, harm the earth, or deprive others of their chance to live.
+
+### Commentary
+
+*We urge a sense of realism here. Strictly interpreted this could be read as an injunction against using cars either those that use a combusion engine because of their use of fossile fuels or even to use electric because the batteries require rare earth metals etc etc.*
 
 ## The Twelfth Mindfulness Training: Reverence for Life
 
