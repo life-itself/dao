@@ -17,30 +17,36 @@ The issue can be written in Markdown, and is a good way of tracking your ‘to-d
 
 This key information SHOULD be present:
 
-* Short description: what is involved. A user story/job story if possible.
-* Acceptance criteria: what would it mean for this to be done.
-* Tasks Checklist: a list of tasks involved to accomplish this task. If you are not sure yet a first task should be "Analyze this and get set of tasks".
+* Description: what is involved, at the top of the issue without a heading. A user story/job story if possible.
+* Acceptance: what would it mean for this to be done.
+* Tasks: a checklist of concrete actions involved to accomplish this task. If you are not sure yet, a first task should be "Analyze this and get set of tasks".
 
 ### Issue Layout 
 
 You should create an issue for any assignment, or project, that has more than one actionable step, and you should lay your issue out as follows:
+
+* **Description** — at the top, without a heading. What is involved, ideally as a user story/job story.
+* **Acceptance** — what constitutes done/success.
+* **Tasks** — concrete actions.
+* **Notes** — optional, for substantive content that needs review or reference (e.g. background information, a hypothesis, or other reviewable content that isn't already in a separate document).
+
 ```md
-## Job Story
+Description text goes here, with no heading above it.
+
 ## Acceptance
 ## Tasks
-## Analysis
+## Notes
 ```
 
 E.g.
 
 ```md
-## Job Story
 I want to create an FAQ for new recruits, accessible from the Onboarding guide, so they have access to useful information that will make the joining process as smooth as possible. 
 
-## Acceptance: 
+## Acceptance
 * [ ] An FAQ section at the end of the Onboarding Guide with answers to the questions below. 
 
-## Tasks: 
+## Tasks
 * [ ] Write answers to the following questions:
    1. How do I write an issue?
    2. How do I set/plan my work?
@@ -53,16 +59,22 @@ I want to create an FAQ for new recruits, accessible from the Onboarding guide, 
    9. How do your projects get initiated? 
    10.How does your budget get set?
 
-## Analysis
+## Notes
 
 None for this issue. Here you might include your questions and hypotheses, or other contextual information relevant to your issue. 
 ```
+
+Key links/documents can optionally sit under the description, but keep these to the genuinely important ones, e.g. the project README, a Drive folder, or a key strategy document. Avoid link dumps: if there are lots of resources, put them in the project/folder README and link to that instead. Documents can also simply be linked from the relevant task, e.g. "Read/review this document."
+
+Don't split tasks into "done" vs "to do" lists — task status (checked/unchecked) already makes this visible, so keep tasks in a single list.
 
 Once you’ve set out your issue like this, you should keep it up to date so that your team members can follow along. 
 
 **Example:** See this GitHub issue for a real example of this structure: [Issue](https://github.com/life-itself/community/issues/1213).
 
 **Tip:** On Github you can create an issue template so this structure is always present.
+
+Overall aim: establish a simple, consistent "way" of structuring issues that we can reuse everywhere.
 
 ### Issue Naming
 
