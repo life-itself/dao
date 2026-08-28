@@ -35,6 +35,7 @@
   "contentExclude": ["AGENTS.md", "CLAUDE.md"],
   "contentHide": ["strategy/archive", "strategy/log", "people", "excalidraw", "docs", "plans", "communications", "initiatives"],
   "redirects": [
+    { "from": "/culture/fourteen-mindfulness-trainings", "to": "https://lifeitself.org/blog/fourteen-mindfulness-trainings-life-itself" },
     { "from": "/communications", "to": "/handbook/communications" },
     { "from": "/events", "to": "/handbook/events" },
     { "from": "/getting-stuff-done", "to": "/handbook/getting-stuff-done" },
